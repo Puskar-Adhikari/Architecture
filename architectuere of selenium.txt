@@ -1,0 +1,33 @@
+Selenium Feature 
+
+- Selenium is an open source Application Testing tools
+- It is exclusively for web based application 
+- Selenium support multiple platform
+like window, apple os and linux
+- Selenium can be coded in a multiple language
+like java, C#, Python, Ruby, perl, php
+
+selenium vs selenium webdriver
+
+
+
+Selenium web driver architecture
+
+write a code in any langauge like in java, python, c#..
+Client  convert code in json format in chrome to
+	|
+	|
+	
+Browser driver- eg chrom browser driver.
+browser driver communicate with respective browser and 
+execute the command by interpreting json when it receive
+in the browser.
+
+	|
+
+Browser driver receives responses back from the browser 
+and it sends json response back to client.
+
+
+
+
